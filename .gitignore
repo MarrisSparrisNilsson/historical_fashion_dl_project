@@ -176,3 +176,4 @@ cython_debug/
 *.zip
 datasets
 datasets/*.csv
+*.h5
